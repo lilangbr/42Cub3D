@@ -24,4 +24,4 @@ $ ./cub3d map.cub
 ![2](scene/cub02.png)
 ![3](scene/demoCub.gif)
 
-*See [subject](https://github.com/lilangbr/42Cub3D/blob/main/en.subject.pdf) to learn how to proceed.*
+
